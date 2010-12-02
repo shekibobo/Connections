@@ -2,4 +2,4 @@ Author: Joshua Kovach
 
 Connections
 
-A Connect Four clone written in Java.  Users can specify the size of their game board, and can have up to 5 players.  Each player selects a row to drop their tokens into.  The first person to get the required number of tokens aligned in a row wins the game.  First GUI game written at GVSU.
+A Connect Four clone written in Java.  Users can specify the size of their game board, and can have up to 5 players.  Each player selects a row to drop their tokens into.  The first person to get the required number of tokens aligned in a row wins the game.  First GUI game written at GVSU. All graphics by me.
